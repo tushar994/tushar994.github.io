@@ -1,1 +1,0 @@
-# Hi! I'm Tushar Jain, and I love building cool stuff!
