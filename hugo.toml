@@ -1,0 +1,21 @@
+baseURL = "https://tushar994.github.io/"
+languageCode = "en-us"
+title = "My New Portfolio"
+theme = ["github.com/mirus-ua/hugo-theme-re-terminal"]
+
+[module]
+[[module.imports]]
+  path = "github.com/mirus-ua/hugo-theme-re-terminal"
+
+[params]
+  # Choose a color: orange, blue, red, green, pink, paper
+  themeColor = "orange"
+  contentTypeName = "posts"
+  fullWidthTheme = false
+  centerTheme = false
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
