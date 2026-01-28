@@ -2,13 +2,14 @@ baseURL = "https://tushar994.github.io/"
 languageCode = "en-us"
 title = "My New Portfolio"
 theme = ["github.com/mirus-ua/hugo-theme-re-terminal"]
+publishFuture = true
 
 
 
 [params]
   # Choose a color: orange, blue, red, green, pink, paper
   themeColor = "orange"
-  contentTypeName = "posts"
+  contentTypeName = "articles"
   fullWidthTheme = false
   centerTheme = true
   [params.Logo]
@@ -31,3 +32,7 @@ theme = ["github.com/mirus-ua/hugo-theme-re-terminal"]
     identifier = "opensource"
     name = "Open Source"
     url = "/opensource"
+  [[menu.main]]
+    identifier = "achievements"
+    name = "Extras"
+    url = "/achievements"
