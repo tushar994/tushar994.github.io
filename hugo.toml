@@ -9,7 +9,7 @@ publishFuture = true
 [params]
   # Choose a color: orange, blue, red, green, pink, paper
   themeColor = "orange"
-  contentTypeName = "articles"
+  contentTypeName = "work"
   fullWidthTheme = false
   centerTheme = true
   [params.Logo]
