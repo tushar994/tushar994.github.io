@@ -12,6 +12,9 @@ publishFuture = true
   centerTheme = true
   [params.Logo]
     logoText = "About Me"
+  [params.author]
+    name = "Tushar Jain"
+    email = "tushar@example.com"
 
 [menu]
   [[menu.main]]
