@@ -4,10 +4,6 @@ title = "My New Portfolio"
 theme = ["github.com/mirus-ua/hugo-theme-re-terminal"]
 publishFuture = true
 
-[author]
-  name = "Tushar Jain"
-  email = "tkumar994@gmail.com"
-
 [params]
   # Choose a color: orange, blue, red, green, pink, paper
   themeColor = "orange"
