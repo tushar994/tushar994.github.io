@@ -18,18 +18,6 @@ publishFuture = true
 
 [menu]
   [[menu.main]]
-    identifier = "articles"
-    name = "Articles"
-    url = "/articles"
-  [[menu.main]]
-    identifier = "work"
-    name = "Work"
-    url = "/work"
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects"
-  [[menu.main]]
     identifier = "opensource"
     name = "Open Source"
     url = "/opensource"
