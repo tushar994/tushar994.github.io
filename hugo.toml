@@ -1,6 +1,6 @@
 baseURL = "https://tushar994.github.io/"
 languageCode = "en-us"
-title = "My New Portfolio"
+title = "Tushar Jain"
 theme = ["github.com/mirus-ua/hugo-theme-re-terminal"]
 publishFuture = true
 
