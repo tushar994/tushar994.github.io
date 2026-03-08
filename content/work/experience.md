@@ -8,7 +8,7 @@ showFullContent = true
 *August 2022 – December 2025*
 
 - Founding engineer of a devshop, driving delivery of multiple DeFi products including RFX and Showdown.
-- **Trading Systems & Quant R&D (Internal Skunkworks):**
+- **Trading Systems & Quant R&D**
   - Developed high-performance **CEX/DEX arbitrage bot in Rust** with REVM optimisations for low-liquidity Uniswap v3-style pools across HyperEVM, Ethereum, Base, and Polygon using MEV strategies and flash loans.
   - Built **directional market-making bots** for Hyperliquid Perps and Spot markets using the **Hummingbot framework**.
   - Implemented **delta-neutral funding rate arbitrage** strategy for perpetual markets, generating **38% annualised returns over a 2-month** live deployment.
@@ -25,7 +25,7 @@ showFullContent = true
 
 ---
 
-## **Solidity and Backend Engineer**, RFX — Hyderabad, India
+## **Solidity and Backend Engineer**, RFX (Neobase Client) — Hyderabad, India
 *August 2024 – June 2025*
 
 - Independently engineered and deployed core protocol upgrades, integrating Pyth and Stork oracles into a complex Solidity codebase to **unlock ultra-low latency and institutional data** for derivatives trading.
@@ -35,7 +35,7 @@ showFullContent = true
 
 ---
 
-## **Protocol Lead**, Showdown — Hyderabad, India
+## **Protocol Lead**, Showdown (Neobase Client) — Hyderabad, India
 *December 2023 – August 2024*
 
 - Scaled Go backend from handling 1 CS2 match to **50+ concurrently**, enabling **7,000+ tournaments**.
