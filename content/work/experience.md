@@ -4,7 +4,7 @@ date = 2026-01-01
 showFullContent = true
 +++
 
-## **Founding Member | Tech Lead**, Neobase — Hyderabad, India
+## **Founding Member | Tech Lead**, Neobase
 *August 2022 – December 2025*
 
 - Founding engineer of a devshop, driving delivery of multiple DeFi products including RFX and Showdown.
@@ -25,7 +25,7 @@ showFullContent = true
 
 ---
 
-## **Solidity and Backend Engineer**, RFX (Neobase Client) — Hyderabad, India
+## **Solidity and Backend Engineer**, RFX (Neobase Client)
 *August 2024 – June 2025*
 
 - Independently engineered and deployed core protocol upgrades, integrating Pyth and Stork oracles into a complex Solidity codebase to **unlock ultra-low latency and institutional data** for derivatives trading.
@@ -35,7 +35,7 @@ showFullContent = true
 
 ---
 
-## **Protocol Lead**, Showdown (Neobase Client) — Hyderabad, India
+## **Protocol Lead**, Showdown (Neobase Client)
 *December 2023 – August 2024*
 
 - Scaled Go backend from handling 1 CS2 match to **50+ concurrently**, enabling **7,000+ tournaments**.
@@ -45,21 +45,21 @@ showFullContent = true
 ---
 
 
-## **Software Developer Intern**, Microsoft — Hyderabad, India
+## **Software Developer Intern**, Microsoft
 *May 2022 – July 2022*
 
 - Extended **gRPC** support in **Azure Application Gateway (NGINX-based)**, enabling seamless inter-service communication, improving scalability, and reducing latency for enterprise workloads.
 
 ---
 
-## **Software Developer Intern**, Powerschool — Remote
+## **Software Developer Intern**, Powerschool
 *February 2022 – May 2022*
 
 - Built a TypeScript/Node.js synchronization service with Serverless APIs and MySQL to migrate **5,000+ US schools** from Google Classroom to Schoology (Powerschool's product) with subminute, real-time data transfer.
 
 ---
 
-## **Student Software Developer**, CERN (GSoC) — Remote
+## **Student Software Developer**, CERN (GSoC)
 *June 2021 – August 2021*
 
 - Enhanced real-time particle momentum and energy predictions for LHC collisions, sustaining **1,000 computations/sec** where prior methods lagged in throughput and accuracy.
