@@ -25,3 +25,7 @@ publishFuture = true
     identifier = "achievements"
     name = "Extras"
     url = "/achievements"
+  [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles"
